@@ -5,4 +5,4 @@
 - **Hỗ trợ nhiều ví**: Quản lý nhiều ví cùng lúc
 - **Phân tích thông minh**: Theo dõi điểm XP, thông tin staking và phần thưởng
 - **Lên lịch thực thi**: Chạy tự động hàng ngày với bộ đếm ngược
-![image](https://github.com/user-attachments/assets/b51dedfb-33b1-4ec5-a9c6-253126a490b8)
+
